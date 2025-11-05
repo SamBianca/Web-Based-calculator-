@@ -65,16 +65,3 @@ git clone https://github.com/your-username/web-calculator.git
 - Grid completeness with newly added % button
 - Smooth transitions and hover feedback
 
-
-
-🌱 Future Improvements
-
-⌨️ Keyboard input support
-🧮 Scientific calculator mode
-🕘 Calculation history log
-🌙 Dark mode toggle
-✨ Button animations
-
-
-
-
