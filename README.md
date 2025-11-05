@@ -2,7 +2,6 @@
 
 A simple, responsive calculator built using **HTML, CSS, and JavaScript**. This project performs basic arithmetic operations and is optimized for mobile and desktop use.
 
----
 
 ## 📦 Features
 
@@ -41,7 +40,7 @@ Handles calculator logic:
 - `calculateResult()`: Evaluates expression using `eval()`
 - `applyPercent()`: Converts last number to percentage
 
----
+
 
 ## ⚙️ How the Percent (%) Button Works
 
@@ -49,14 +48,33 @@ Handles calculator logic:
   - Example: `50 + 10%` becomes `50 + 0.1`
 - If no number is found, divides the **entire expression** by 100.
 
----
-
 ## 🚀 Getting Started
 
 To run the calculator locally:
 
-```bash
+
 # Clone the repository
 git clone https://github.com/your-username/web-calculator.git
 
 # Open index.html in your browser
+
+🎨 UI/UX Highlights
+
+- Bold display screen for readability
+- Touch-friendly buttons
+- Grid completeness with newly added % button
+- Smooth transitions and hover feedback
+
+
+
+🌱 Future Improvements
+
+⌨️ Keyboard input support
+🧮 Scientific calculator mode
+🕘 Calculation history log
+🌙 Dark mode toggle
+✨ Button animations
+
+
+
+
